@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TKM bot",
+      "value":"DOMINATRIX",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
+    "desc": "KING",
     "required": false,
     "value": "Cod3Uchiha"
   },
@@ -83,7 +83,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "263775571820,263785028126"
+    "value": "2349038163213"
   },
     "WARN_COUNT":
   {
